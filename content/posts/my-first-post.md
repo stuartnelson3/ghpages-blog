@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "my first post"
 date: 2020-08-27T11:17:49+02:00
 tags:
   - post
