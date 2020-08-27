@@ -1,7 +1,10 @@
 ---
 title: "My First Post"
 date: 2020-08-27T11:17:49+02:00
-draft: true
+tags:
+  - post
+  - test
+  - bored
 ---
 
 # here's a title
