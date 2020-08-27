@@ -32,16 +32,5 @@ theme = "smol"
 # Footer
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/example"
+        url = "https://github.com/stuartnelson3"
         weight = 1
-
-    [[menu.footer]]
-        name = "Mastodon"
-        url = "https://example.com/@user"
-        weight = 2
-
-    [[menu.footer]]
-        name = "Imprint"
-        url = "/imprint"
-        weight = 3
-
