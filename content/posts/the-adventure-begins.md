@@ -48,11 +48,16 @@ highway. Quickly it turned into forest roads with some truly gnarly elevation
 gain. Again, I ended up pushing my bike.[^1]
 
 I reached the north western corner of the lake and followed a walking path
-down. After crossing a bridge with a huge stone lion (felt like an Argonath
-from Lord of the Rings), I continued following a route around the lake hunting
-for a spot to camp. After passing several places that all looked similar, I
-settle on one between the path and the lake. It slopes downhill, which won't
-be a problem for my hammock.
+down. After crossing a bridge with a huge stone lion (felt like an
+[Argonath](https://lotr.fandom.com/wiki/Argonath) from Lord of the Rings), I
+continued following a route around the lake hunting for a spot to camp.
+
+<img style="max-width: 100%; width: auto; height: auto;" src="/images/lion.jpg" alt="lion">
+<figcaption><small>This lion looking out over the resevoir reminded me of the <a href="https://lotr.fandom.com/wiki/Argonath">Argonath</a> from Lord of the Rings.</small></figcaption>
+
+After passing several places that all looked similar, I settle on one between
+the path and the lake. It slopes downhill, which won't be a problem for my
+hammock.
 
 I forgot how jumpy I am sleeping outside. My food was hung in a tree 20m from
 me, I was off the ground in a hammock, but every noise or rustle in the bushes

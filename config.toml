@@ -4,6 +4,9 @@ languageCode = "en-us"
 title = "stuart's blog"
 theme = "smol"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # Parameters
 [params]
     # subtitle = "be excellent to each other."
