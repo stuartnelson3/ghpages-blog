@@ -45,11 +45,23 @@ another person. I passed through empty villages with monuments to fallen
 soldiers. I would learn much about the fighting that occurred in this region.
 
 <img style="max-width: 100%; width: auto; height: auto;" src="/images/ligneuville_memorial.jpg" alt="ligneuville memorial">
-<figcaption><small>This was <a href="https://goo.gl/maps/nQCyCLVCJrqZj9ue6">one of many memorials</a> I saw.</small></figcaption>
+<figcaption><small>This was <a href="https://goo.gl/maps/nQCyCLVCJrqZj9ue6">one of many memorials</a> I saw. I paused the longest at this one.</small></figcaption>
+
+I saw memorials for Americans, for Belgians, for the English, for the Scottish.
+Some died fighting, some as prisoners, some in concentration camps. I stopped
+at most for a moment to read the names. They made the war seem real in a way
+that I never experienced in the USA.
+
+Belgium has a German speaking minority. Cycling through the German-speaking
+Recht, stopping at the [memorial](https://goo.gl/maps/okqJa7zJDxJf32mh6) there,
+I wondered how they had felt. The village is 20km from the German border.
+
+<img style="max-width: 100%; width: auto; height: auto;" src="/images/recht_memorial.jpg" alt="recht memorial">
+<figcaption><small>Durch Heldentod zum ewigen Frieden: Eternal peace from a hero's death.</small></figcaption>
 
 My destination for the evening was Viersalm, and a campsite there. The campsite
 cost an outrageous 8 euros, but I supposed I could afford it. I dropped off my
-gear, unrolled my tarp and bivoauc sack so they could dry, and headed into the
+gear, unrolled my tarp and bivouac sack so they could dry, and headed into the
 town.
 
 On a beautiful day I was rewarded with an excellent terrace overlooking a lake.
