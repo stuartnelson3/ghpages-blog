@@ -4,7 +4,6 @@ date: 2020-09-09T14:16:23+02:00
 tags:
   - journal
   - biketrip
-draft: true
 ---
 
 **Location**: Lac Gileppe -> Sourbrodt

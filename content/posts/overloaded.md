@@ -4,7 +4,6 @@ date: 2020-09-11T19:15:50+02:00
 tags:
   - journal
   - biketrip
-draft: true
 ---
 
 **Location**: Viersalm -> La Roche-en-Ardenne

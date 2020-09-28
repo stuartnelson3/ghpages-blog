@@ -4,7 +4,6 @@ date: 2020-09-09T11:24:04+02:00
 tags:
   - journal
   - biketrip
-draft: true
 ---
 
 **Location**: Berlin -> Aachen -> Lac Gileppe

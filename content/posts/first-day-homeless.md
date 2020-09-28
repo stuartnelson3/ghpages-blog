@@ -4,7 +4,6 @@ date: 2020-09-08T10:52:06+02:00
 tags:
   - reflection
   - biketrip
-draft: true
 ---
 
 **Location:** Berlin

@@ -4,7 +4,6 @@ date: 2020-09-10T15:08:27+02:00
 tags:
   - journal
   - biketrip
-draft: true
 ---
 
 **Location**: Sourbrodt -> Viersalm
