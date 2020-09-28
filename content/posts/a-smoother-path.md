@@ -10,7 +10,7 @@ draft: true
 **Location**: Sourbrodt -> Viersalm
 
 It rained several times in the night. Despite my inability as an outdoorsman,
-my tarp kept me dry. Excepting waking up cold between 5am and 7am (cf. previous
+my tarp kept me dry. Except for waking up cold between 5am and 7am (cf. previous
 comment on bivouac sacks), I slept well.
 
 I broke camp around 9:30am. I had only drunk two of the three beers from the
@@ -34,10 +34,18 @@ I reached Malmedy at 11:30am and bought a quiche and pain au chocolat. I sat by
 the cathedral and had my early lunch, and was starting to feel better about the
 new direction of my trip. I was not confident in being able to handle the
 original route, and picking each morning where I wanted to be in the evening
-left the trip open to change.
+left the trip became a really fun way to travel. In the evening I would sip a
+beer, look at my map, and choose my next destination.
+
+<img style="max-width: 100%; width: auto; height: auto;" src="/images/vielsalm_bikepath.jpg" alt="vielsalm bikepath">
+<figcaption><small>Minimal signage guiding my way. Longer routes had city names and distances marked.</small></figcaption>
 
 The paths I took were empty. Hour long stretches drifted by without seeing
-another person.
+another person. I passed through empty villages with monuments to fallen
+soldiers. I would learn much about the fighting that occurred in this region.
+
+<img style="max-width: 100%; width: auto; height: auto;" src="/images/ligneuville_memorial.jpg" alt="ligneuville memorial">
+<figcaption><small>This was <a href="https://goo.gl/maps/nQCyCLVCJrqZj9ue6">one of many memorials</a> I saw.</small></figcaption>
 
 My destination for the evening was Viersalm, and a campsite there. The campsite
 cost an outrageous 8 euros, but I supposed I could afford it. I dropped off my
@@ -49,11 +57,12 @@ On a beautiful day I was rewarded with an excellent terrace overlooking a lake.
 <img style="max-width: 100%; width: auto; height: auto;" src="/images/vielsalm_terrace.jpg" alt="vielsalm terrace">
 <figcaption><small>After the previous day, I needed this very much.</small></figcaption>
 
-There was a list of local beers I had never heard of. Looking around, the most
-popular beer appeared to come in a glass horn. Naturally, I had to have one.
+The beer list contained many local beers I had never heard of. Looking around,
+the most popular beer appeared to come in a glass horn. Naturally, I had to
+have one.
 
 <img style="max-width: 100%; width: auto; height: auto;" src="/images/vielsalm_beer.jpg" alt="vielsalm beer">
-<figcaption><small>This was a strong beer.</small></figcaption>
+<figcaption><small>This was a strong beer. The drinker would pick up the entire stand to take a sip.</small></figcaption>
 
 Beating a wobbly retreat, I passed through the grocery store for dinner. Meal
 in tow, I returned to my campsite to shower, eat, and sleep.
