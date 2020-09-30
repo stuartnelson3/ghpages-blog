@@ -78,5 +78,6 @@ hammock. Instantly I felt warmer and was able to fall asleep.
     Whether this is an issue with my equipment, or its calibration, I do not know.
 
 [^2]: While the hammock was never going to keep me warm, I probably would have
-  been fine if I had not been in my bivouac sack, or was using it correctly. I
+  been fine if I had not been in my bivouac sack, or was [using it
+  correctly](https://stuartnelson3.github.io/posts/rest-day/#on-bivy-sacks). I
   learned in the following days what I should have done.
