@@ -1,6 +1,6 @@
 ---
 title: "The Adventure Begins"
-date: 2020-09-09T11:24:04+02:00
+date: 2020-09-08T11:24:04+02:00
 tags:
   - journal
   - biketrip
