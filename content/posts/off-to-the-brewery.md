@@ -99,11 +99,10 @@ to the brewery. Unsurprisingly, it was closed. There was a large area around
 back, presumably for trucks to drive into for loading beer. I walked back there
 and found an employee.
 
-<<Excusez-moi, monsieur?>>
-<<Hm?>>
-<<Je sais que vous etes fermés, mais serait-il possible d'acheter des bières?>>
-<get the right circumflex e>!!!
-He said something positive sounding and waved me in through the back.
+<<Excusez-moi, monsieur?>><br>
+<<Hm?>><br>
+<<Je sais que vous êtes fermés, mais serait-il possible d'acheter des bières?>><br>
+He said something positive sounding and waved me in through the back.<br>
 
 He showed me some of the bottling equipment and led me into the taproom, where
 he talked me through a few of their beers. I grab a blanche (white), ambrée
@@ -112,9 +111,14 @@ he talked me through a few of their beers. I grab a blanche (white), ambrée
 <img style="max-width: 100%; width: auto; height: auto;" src="/images/saint_monon_taproom.jpg" alt="saint monon taproom">
 <figcaption><small>The very cute Saint Monon taproom. I would have gladly stayed for a beer.</small></figcaption>
 
-Mission accompli. The main pointed at his watch and said he had to get back to
-work. I thanked the man and headed out the front of the taproom. I stood out
-front and drank the blanche. It wasn't strong, and tasted great after having cycled.
+Mission accomplie. The main pointed at his watch and said he had to get back to
+work. I thanked the man and headed out the front of the taproom.
+
+<img style="max-width: 100%; width: auto; height: auto;" src="/images/saint_monon_selfie.jpg" alt="saint monon selfie">
+<figcaption><small>The mirror compelled me to.</small></figcaption>
+
+I stood out front and drank the blanche. It wasn't strong, and tasted great
+after having cycled.
 
 The route back to Jemelle was longer but flatter. It wound around the hills I
 had gone over on the ride there. There was a fantastic cool long downhill
