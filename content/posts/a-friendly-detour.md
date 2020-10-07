@@ -65,9 +65,9 @@ The man's name was Philippe. He had white hair with streaks of grey pulled back
 in a ponytail, a grey mustache, and a white goatee. He still seemed to be
 fairly fit. He was on his bike.
 
-I told him I should get going, and told him it was very nice to meet him. He
-said he was headed in the same direction and would take me to the turn-off on
-my new route.
+I told him I should get going, and that it was very nice to meet him. He said
+he was headed in the same direction and would take me to the turn-off on my new
+route.
 
 We didn't speak much more while riding. We had hit the limit of our small talk
 and my french. We did agree that belgium makes the best beer in the world,
