@@ -19,6 +19,9 @@ beer from Saint Monon. They went together really well. I tried to find the guy
 running the junkyard/campsite, but he was nowhere to be found. I'm now probably
 wanted in the area for not paying the one euro for the campsite.
 
+<img style="max-width: 90%; width: auto; height: auto;" src="/images/jemelle_breakfast.jpg" alt="breakfast beer">
+<figcaption><small>Breakfast of champions. The brown went amazingly well with waffles.</small></figcaption>
+
 I biked to the bikeshop and went in. The guy took a look at my front brake,
 pulled out his multitool, tightened the screw holding the wheel in place (which
 I had removed when replacing my innertube), and looked up to me and said <<Voila.>>
@@ -50,8 +53,8 @@ He told me about the big USA tour he took 35 years prior. He went to
 California, down the coast, into Tijuana and Mexico, back up into the USA, and
 over to New York. He didn't know where Minnesota was.
 
-<<Pas loin de Chicago.>>
-<<Ahhh, Chicago!>>
+<<Pas loin de Chicago.>><br>
+<<Ahhh, Chicago!>><br>
 
 I'm not sure he knew where Chicago was, either.
 
@@ -80,8 +83,6 @@ up off the black surface.
 
 I crossed into france. A couple kilometers from the campsite there was a
 mcdonalds, which meant air conditioning, wifi, and ice cream.
-
-// flu mcflurry??
 
 The campsite was a short ride south of Givet on the other side of the river, on
 my bike path for the next couple days: la voie verte. It starts in Givet and
@@ -125,7 +126,7 @@ standing still.
 
 I don't think I'm going to find a job I'm excited about.
 
-But I think I have a caree where I can work and take unpaid leave and still
+But I think I have a career where I can work and take unpaid leave and still
 come out ahead.
 
 [^1]: Ok, I'm listening to music on my phone and streaming tv shows at night,
