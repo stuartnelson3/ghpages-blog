@@ -7,7 +7,7 @@ tags:
   - reflection
 ---
 
-**Location**: Jemelle -> Houyoyt -> Beauraing -> Givet
+**Location**: Jemelle -> Houyot -> Beauraing -> Givet
 
 I woke up to being a little cold and it being mostly dark. How? But how? It's
 17C! I checked my phone: 6:30am. Ah, well I still got 8 hours of sleep. I
