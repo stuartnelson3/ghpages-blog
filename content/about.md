@@ -1,8 +1,13 @@
 ---
 title: "About"
-date: 2020-08-27T11:58:09+02:00
+type: "pages"
+layout: "simple-static"
 ---
+
+<img style="max-width: 30%; width: auto; height: auto;" src="/images/headshot_pixelized.png" alt="headshot">
 
 This is my about me page.
 
-I'm going to be traveling for a bit, so I'll write down my thoughts here.
+I very rarely write things, and never about technology.
+
+I work as a software developer, but prefer skiing.
