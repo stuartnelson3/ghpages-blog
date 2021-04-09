@@ -1,8 +1,9 @@
 # Update this
 baseURL = "http://stuartnelson3.github.io"
 languageCode = "en-us"
-title = "stuart's blog"
+title = "stuart nelson"
 theme = "smol"
+paginate = 20
 
 [markup.goldmark.renderer]
 unsafe= true
@@ -15,21 +16,21 @@ unsafe= true
 # Header
 [menu]
   [[menu.main]]
+        identifier = "about"
+        name = "about"
+        url = "/about/"
+        weight = 1
+
+  [[menu.main]]
         identifier = "posts"
         name = "posts"
         url = "/posts/"
-        weight = 1
+        weight = 2
 
   [[menu.main]]
         identifier = "tags"
         name = "tags"
         url = "/tags/"
-        weight = 2
-
-  [[menu.main]]
-        identifier = "about"
-        name = "about"
-        url = "/about/"
         weight = 3
 
 # Footer
