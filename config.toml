@@ -3,7 +3,7 @@ baseURL = "http://stuartnelson3.github.io"
 languageCode = "en-us"
 title = "stuart nelson"
 theme = "smol"
-paginate = 20
+paginate = 25
 
 [markup.goldmark.renderer]
 unsafe= true
