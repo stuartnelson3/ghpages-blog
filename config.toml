@@ -37,4 +37,8 @@ unsafe= true
   [[menu.footer]]
         name = "github"
         url = "https://github.com/stuartnelson3"
-        weight = 1
+        weight = 2
+  [[menu.footer]]
+        name = "say hi"
+        url = "mailto:hi@stuartnelson.xyz"
+        weight = 2
