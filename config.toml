@@ -1,5 +1,5 @@
 # Update this
-baseURL = "http://stuartnelson3.github.io"
+baseURL = "https://stuartnelson.xyz"
 languageCode = "en-us"
 title = "stuart nelson"
 theme = "smol"
