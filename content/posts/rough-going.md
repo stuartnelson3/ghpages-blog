@@ -95,8 +95,7 @@ I was tired and hungry and had no motivation to keep riding. I found the
 nearest campsite, thankfully only 15min away, and rode there. It cost 3 euros,
 and I couldn't have been more relieved. I bought dinner at a nearby gastation.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/sourbrodt_dinner.jpeg" alt="dinner">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/sourbrodt_dinner.jpeg" alt="dinner">
 <figcaption><small>A meal fit for a king: beer, cheese, and gas station sandwich.</small></figcaption>
 
 The hot shower and drinking water made the 3 euros well worth it.
-

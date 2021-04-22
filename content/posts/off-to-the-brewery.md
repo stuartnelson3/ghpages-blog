@@ -63,7 +63,7 @@ said I could pay later. I unloaded my bike, unrolled my tarp, and set my things
 on the tarp. I would finish unpacking later. The campsite resembled a cross
 between an RV park, a junkyard, and a hobby farm.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/jemelle_chickens.jpg" alt="junkyard chickens">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/jemelle_chickens.jpg" alt="junkyard chickens">
 <figcaption><small>The chickens paid me very little mind.</small></figcaption>
 
 I came to Jemelle because it had the closest campsite to Ambly, a nearby

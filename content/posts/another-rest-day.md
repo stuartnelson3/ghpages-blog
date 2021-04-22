@@ -26,7 +26,7 @@ the voie verte is an easy cycle, I figured it didn't matter.
 It ended up being 25km to the trailhead. Not bad, to be honest. It probably
 took a hair under an hour to get there.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/tournavaux_river.jpg" alt="view over river near tournavaux">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/tournavaux_river.jpg" alt="view over river near tournavaux">
 <figcaption><small>River I crossed over on my way to the trailhead.</small></figcaption>
 
 The hike ended up being fairly unremarkable. The hike was on well-trod dirt
@@ -82,7 +82,7 @@ I can't remember exactly the quote he told me from a travel guide, but it was
 something like "Watch the best moments of your life speed by in the rear-view
 mirror."
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/montherme_scenery.jpg" alt="view over montherme while hiking">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/montherme_scenery.jpg" alt="view over montherme while hiking">
 <figcaption><small>View over Monthermé.</small></figcaption>
 
 [^1]: Why does francophile sound so much better? Americanophile sounds

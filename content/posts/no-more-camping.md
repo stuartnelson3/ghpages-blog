@@ -21,7 +21,7 @@ it was gravel or packed earth, unlike an official route which would have been
 paved. It was kind of boring, to be honest. There was no turning for 35km.
 
 <div style="text-align:center;">
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/bastogne_preravel.jpg" alt="never ending gravel path to bastogne">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/bastogne_preravel.jpg" alt="never ending gravel path to bastogne">
 <figcaption><small>Riding on the pre-ravel path. It really wasn't bad, it just went on like this for almost two hours.</small></figcaption>
 </div>
 

@@ -66,7 +66,7 @@ so fluid. It was very cool to see her work and be a part of the process as it
 happened.
 
 <div style="text-align:center;">
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/warsaw_tattoo_sketch.jpg" alt="watching ola modify the sketch">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/warsaw_tattoo_sketch.jpg" alt="watching ola modify the sketch">
 <figcaption><small>Live sketching. Having her make suggestions, rotate the sketch, and show changes, was really cool.</small></figcaption>
 </div>
 
@@ -106,7 +106,7 @@ mental note to do that the next time I tattoo myself, and not just have my
 arm free in the air.
 
 <div style="text-align:center;">
-<img style="max-width: 60%; width: auto; height: auto;" src="/images/warsaw_self_tattoo.jpg" alt="tattoo'ing myself">
+<img style="max-width: 60%; width: auto; height: auto;" loading="lazy" src="/images/warsaw_self_tattoo.jpg" alt="tattoo'ing myself">
 <figcaption><small>I saw no reason not to do this. It actually didn't hurt.</small></figcaption>
 </div>
 
@@ -138,7 +138,7 @@ she had an awesome time too. She gave me a big hug when I left, and told me
 to message her on Sunday and she'd show me around.
 
 <div style="text-align:center;">
-<img style="max-width: 60%; width: auto; height: auto;" src="/images/warsaw_fresh_ink.jpg" alt="fresh tattoo">
+<img style="max-width: 60%; width: auto; height: auto;" loading="lazy" src="/images/warsaw_fresh_ink.jpg" alt="fresh tattoo">
 <figcaption><small>Fresh ink!</small></figcaption>
 </div>
 
@@ -157,7 +157,7 @@ Feeling like it'd be good to get out, I found a cocktail bar that looked
 cool. It was steampunk-themed. The cocktails were excellent.
 
 <div style="text-align:center;">
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/warsaw_steampunk_bar.jpg" alt="steampunk bar">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/warsaw_steampunk_bar.jpg" alt="steampunk bar">
 <figcaption><small>The bar. The whole thing had a very cool copper steampunk theme going on.</small></figcaption>
 </div>
 

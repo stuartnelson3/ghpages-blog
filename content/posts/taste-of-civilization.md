@@ -13,7 +13,7 @@ verte. I reached my destination very quickly. Along the way I passed several
 little pillboxes facing north upriver. I'm guessing it was to harass an attempt
 at nazi incursion into france.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/voie_verte_pillbox.jpg" alt="a pillbox along the river">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/voie_verte_pillbox.jpg" alt="a pillbox along the river">
 <figcaption><small>At most soldiers stationed inside could have harried incoming transports. I'm guessing they were primarily there to inform of an invasion.</small></figcaption>
 
 By noon I was in Charleville-Mézière. I had a whole day to be in the city. It
@@ -45,7 +45,7 @@ highschoolers in their late teens, and they're congregating for some unknown
 reason. I was sitting on a bench, dirty, scruffy, with my bags and bike,
 drinking beer, where the highschoolers come to hang out.
 
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/charleville_memorial.jpg" alt="memorial to the fallen from the city">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/charleville_memorial.jpg" alt="memorial to the fallen from the city">
 <figcaption><small>This square was chosen quite innocently.</small></figcaption>
 
 I fully appreciated how this probably looked. But I wasn't going to leave until

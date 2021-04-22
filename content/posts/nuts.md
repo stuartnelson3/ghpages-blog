@@ -20,7 +20,7 @@ bulge, but it covered the run up to WW2, starting with the end of WW1, and
 all the way through to the war's end.
 
 <div style="text-align:center;">
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/bastogne_nuts.jpg" alt="the german offer to accept american surrender receive 'nuts' as a reply">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/bastogne_nuts.jpg" alt="the german offer to accept american surrender receive 'nuts' as a reply">
 <figcaption><small>Having surrounded the americans in bastogne, the germans requested their surrender. The american commander's response, "NUTS!", made little sense to the germans, until american artillary bombardment recommenced.</small></figcaption>
 </div>
 

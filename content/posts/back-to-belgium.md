@@ -25,7 +25,7 @@ massive hills to get to ochamp. I should have gone to sedan, saved myself
 about 20km of cycling, and probably a good deal of elevation gain.
 
 <div style="text-align:center;">
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/belgique.jpg" alt="crossing the border back into belgium">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/belgique.jpg" alt="crossing the border back into belgium">
 <figcaption><small>It almost felt like a homecoming of sorts to return. It was really nice to see this sign and cross back over.</small></figcaption>
 </div>
 
@@ -37,7 +37,7 @@ is an extremely easy cycle on a paved ravel route, and I felt like I was
 ready to rest.
 
 <div style="text-align:center;">
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/ochamp_camping.jpg" alt="last campsite in the woods">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/ochamp_camping.jpg" alt="last campsite in the woods">
 <figcaption><small>My final campsite of the trip.</small></figcaption>
 </div>
 

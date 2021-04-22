@@ -19,7 +19,7 @@ beer from Saint Monon. They went together really well. I tried to find the guy
 running the junkyard/campsite, but he was nowhere to be found. I'm now probably
 wanted in the area for not paying the one euro for the campsite.
 
-<img style="max-width: 90%; width: auto; height: auto;" src="/images/jemelle_breakfast.jpg" alt="breakfast beer">
+<img style="max-width: 90%; width: auto; height: auto;" loading="lazy" src="/images/jemelle_breakfast.jpg" alt="breakfast beer">
 <figcaption><small>Breakfast of champions. The brown went amazingly well with waffles.</small></figcaption>
 
 I biked to the bikeshop and went in. The guy took a look at my front brake,
@@ -93,7 +93,7 @@ like every scene in "For a Few Dollars More". The owner sat facing the river
 and fortress rising high up over Givet on the opposite bank.  He was eating
 lunch with his wife. He's shirtless under the veranda.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/givet_river.jpg" alt="a view on givet from across the river">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/givet_river.jpg" alt="a view on givet from across the river">
 <figcaption><small>View across the river to Givet and the fortress overlooking it.</small></figcaption>
 
 I got as far as "Hello, I would like to.." before he waved his arm towards the

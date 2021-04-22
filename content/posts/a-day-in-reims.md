@@ -40,7 +40,7 @@ Still before 13:00, we headed to the cathedral to check it out. I found the
 architecture very nice, and the size super impressive. 
 
 <div style="text-align:center;">
-<img style="max-width: 70%; width: auto; height: auto;" src="/images/reims_cathedral.jpg" alt="cathedral in reims">
+<img style="max-width: 70%; width: auto; height: auto;" loading="lazy" src="/images/reims_cathedral.jpg" alt="cathedral in reims">
 <figcaption><small>Rather impressive cathedral in Reims.</small></figcaption>
 </div>
 
@@ -51,7 +51,7 @@ years after Berlin surrendered, and very close to when the berlin wall went
 up.
 
 <div style="text-align:center;">
-<img style="max-width: 70%; width: auto; height: auto;" src="/images/reims_reconciliation.jpg" alt="stone german-french reconciliation tablets before reims cathedral">
+<img style="max-width: 70%; width: auto; height: auto;" loading="lazy" src="/images/reims_reconciliation.jpg" alt="stone german-french reconciliation tablets before reims cathedral">
 <figcaption><small>Stone tablets before the cathedral commemorating germany and france seeking to reconcile after world war 2.</small></figcaption>
 </div>
 
@@ -108,7 +108,7 @@ completed the "France-land" disney vibe. It had all the things to be french
 but felt staged or counterfeit.
 
 <div style="text-align:center;">
-<img style="max-width: 70%; width: auto; height: auto;" src="/images/reims_cellar.jpg" alt="colorful hallway in the champagne cellar">
+<img style="max-width: 70%; width: auto; height: auto;" loading="lazy" src="/images/reims_cellar.jpg" alt="colorful hallway in the champagne cellar">
 <figcaption><small>One of the colorful parts that contributed to the otherworldliness of the champagne cellar.</small></figcaption>
 </div>
 

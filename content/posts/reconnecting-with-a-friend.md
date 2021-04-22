@@ -58,4 +58,3 @@ can. Going back to favored books from my mid to late teens and finding the
 prose painful is a clear enough indication that I can feel "bad" writing. But I
 suppose real literary criticism, reading it and familiarizing myself with the
 language, is how to do it.
-

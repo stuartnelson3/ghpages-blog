@@ -87,7 +87,7 @@ Roche-en-Ardenne.[^2]
 Pedaling there, every noise from my bike worried me. I didn't know if the patch
 would hold or if I would pop the tire elsewhere.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/nos_liberateurs.jpg" alt="a nos liberateurs">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/nos_liberateurs.jpg" alt="a nos liberateurs">
 <figcaption><small>Another memorial at a critical moment for me. A nos liberateurs: for our liberators.</small></figcaption>
 
 Unhappy, doubt-ridden, and tired, this memorial gave me some much needed
@@ -99,7 +99,7 @@ I arrived at the campsite and rented a space for the night. After dropping off
 my gear, I headed into town to go to the bike shop before it closed. The
 village is unbelievably charming.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/roche_castle.jpg" alt="la roche-en-ardenne castle">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/roche_castle.jpg" alt="la roche-en-ardenne castle">
 <figcaption><small>Within 2 minutes of entering the village I decided to stay there for at least one additional night.</small></figcaption>
 
 Pushing my bike down brick streets, my mood immediately changed for the better.
@@ -116,7 +116,7 @@ my relief.[^3] I asked for a chain lock because the one I had was too heavy.
 Then I told her I thought my rear tire was bent. She picked up the back end of
 my bike, spun the tire, and laughed at how absurdly crooked it was.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/la_roche_bike.jpg" alt="bike repair">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/la_roche_bike.jpg" alt="bike repair">
 <figcaption><small>Steven the Dependable, while his rear tire was being straightened.</small></figcaption>
 
 She grabbed the rear tire and took it in the shop to straighten it out. Coming
@@ -126,7 +126,7 @@ it was very reliable. She laughed.
 
 I grabbed my accustomed dinner from the grocery store and pedaled back to my campsite.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/la_roche_bike_baguette.jpg" alt="baguette on a bike">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/la_roche_bike_baguette.jpg" alt="baguette on a bike">
 <figcaption><small>The new chain lock proved itself capable not only securing bikes, but also baguettes.</small></figcaption>
 
 Having returned to camp, I showered, and settled down for dinner. Turns out I

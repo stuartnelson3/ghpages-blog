@@ -17,7 +17,7 @@ hiked were not challenging; I hardly broke a sweat. It was all in the
 forest, which was nice, but absent more than the occasional hilly view, not
 much was going on. I didn't have to shower after the hike.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/roche_hike.jpg" alt="a hilly view">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/roche_hike.jpg" alt="a hilly view">
 <figcaption><small>The hike was nice but not spectacular.</small></figcaption>
 
 I biked into town and posted at a cafe to drink a few beers and read Hemingway
@@ -30,7 +30,7 @@ tartine d'Ardenne from the butcher across the street. They were fantastic. The
 tartine was very similar to leberwurst. The ham was easily the better of the
 two.
 
-<img style="max-width: 100%; width: auto; height: auto;" src="/images/roche_butcher.jpg" alt="the butcher shop">
+<img style="max-width: 100%; width: auto; height: auto;" loading="lazy" src="/images/roche_butcher.jpg" alt="the butcher shop">
 <figcaption><small>I bought meat here several times.</small></figcaption>
 
 
