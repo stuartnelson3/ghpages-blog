@@ -39,6 +39,6 @@ unsafe= true
         url = "https://github.com/stuartnelson3"
         weight = 2
   [[menu.footer]]
-        name = "say hi"
-        url = "mailto:hi@stuartnelson.xyz"
+        name = "hi [@] stuartnelson [.] xyz"
+        url = "mailto:this.address.is@garbage.com"
         weight = 2
