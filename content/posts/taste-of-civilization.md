@@ -1,6 +1,7 @@
 ---
 title: "Taste of Civilization"
 date: 2020-09-18T11:39:44+02:00
+draft: true
 tags:
   - journal
   - reflection

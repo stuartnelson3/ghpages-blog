@@ -1,6 +1,7 @@
 ---
 title: "Going for a Hike"
 date: 2020-09-13T10:31:56+02:00
+draft: true
 tags:
   - journal
   - reflection

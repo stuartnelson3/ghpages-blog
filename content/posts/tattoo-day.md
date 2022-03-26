@@ -1,6 +1,7 @@
 ---
 title: "Tattoo Day"
 date: 2020-10-09T10:47:52+01:00
+draft: true
 tags:
   - journal
   - warsaw

@@ -1,6 +1,7 @@
 ---
 title: "Walking Tour"
 date: 2020-10-07T10:33:59+01:00
+draft: true
 tags:
   - journal
   - warsaw

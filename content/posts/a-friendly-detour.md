@@ -1,6 +1,7 @@
 ---
 title: "A Friendly Detour"
 date: 2020-09-15T12:36:28+02:00
+draft: true
 tags:
   - journal
   - biketrip

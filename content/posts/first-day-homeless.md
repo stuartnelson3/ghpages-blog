@@ -1,6 +1,7 @@
 ---
 title: "First Day Homeless"
 date: 2020-09-07T10:52:06+02:00
+draft: true
 tags:
   - reflection
   - biketrip

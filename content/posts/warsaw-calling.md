@@ -1,6 +1,7 @@
 ---
 title: "Warsaw Calling"
 date: 2020-10-06T16:33:17+01:00
+draft: true
 tags:
   - journal
   - warsaw

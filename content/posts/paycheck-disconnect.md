@@ -1,6 +1,7 @@
 ---
 title: "Paycheck Disconnect"
 date: 2021-04-09T10:09:34+02:00
+draft: true
 tags:
   - reflection
 ---

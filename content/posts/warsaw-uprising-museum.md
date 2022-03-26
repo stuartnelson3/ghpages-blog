@@ -1,6 +1,7 @@
 ---
 title: "Warsaw Uprising Museum"
 date: 2020-10-08T11:38:02+01:00
+draft: true
 tags:
   - journal
   - warsaw

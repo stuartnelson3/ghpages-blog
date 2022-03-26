@@ -1,6 +1,7 @@
 ---
 title: "Had a Dream"
 date: 2021-05-03T22:03:48+02:00
+draft: true
 tags:
     - dream
 ---
@@ -11,7 +12,7 @@ I tend to have fairly vivid dreams. They also can be pretty crazy. So I'm going
 to attempt to write them down and maybe throw out a little analysis. Some of
 them are pretty clear; some are not.
 
-My goal is two-fold: 
+My goal is two-fold:
 
 - Remember some of these dreams and what my subconscious was going through at
 the time

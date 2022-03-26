@@ -1,6 +1,7 @@
 ---
 title: "Travel Companion"
 date: 2020-09-16T09:50:16+02:00
+draft: true
 tags:
   - journal
   - biketrip

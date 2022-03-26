@@ -1,6 +1,7 @@
 ---
 title: "A Day in Reims"
 date: 2020-09-20T11:54:23+01:00
+draft: true
 tags:
   - journal
   - biketrip
@@ -37,7 +38,7 @@ quick.
 
 We had a champagne tasting that we had to arrive for between 14:00 and 16:30.
 Still before 13:00, we headed to the cathedral to check it out. I found the
-architecture very nice, and the size super impressive. 
+architecture very nice, and the size super impressive.
 
 <div style="text-align:center;">
 <img style="max-width: 70%; width: auto; height: auto;" loading="lazy" src="/images/reims_cathedral.jpg" alt="cathedral in reims">

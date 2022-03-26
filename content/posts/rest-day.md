@@ -1,6 +1,7 @@
 ---
 title: "Rest Day"
 date: 2020-09-12T16:13:52+02:00
+draft: true
 tags:
   - journal
   - reflection

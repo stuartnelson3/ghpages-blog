@@ -1,6 +1,7 @@
 ---
 title: "Reconnecting With a Friend"
 date: 2020-09-19T13:03:05+02:00
+draft: true
 tags:
   - journal
   - reflection

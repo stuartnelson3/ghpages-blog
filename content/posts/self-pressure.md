@@ -1,6 +1,7 @@
 ---
 title: "Self Pressure"
 date: 2021-04-12T11:59:23+02:00
+draft: true
 tags:
     - reflection
 ---

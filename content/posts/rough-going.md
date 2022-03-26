@@ -1,6 +1,7 @@
 ---
 title: "Rough Going"
 date: 2020-09-09T14:16:23+02:00
+draft: true
 tags:
   - journal
   - biketrip
