@@ -21,18 +21,6 @@ unsafe= true
         url = "/about/"
         weight = 1
 
-  [[menu.main]]
-        identifier = "posts"
-        name = "posts"
-        url = "/posts/"
-        weight = 2
-
-  [[menu.main]]
-        identifier = "tags"
-        name = "tags"
-        url = "/tags/"
-        weight = 3
-
 # Footer
   [[menu.footer]]
         name = "github"
