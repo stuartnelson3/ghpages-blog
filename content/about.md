@@ -10,4 +10,4 @@ This is my about me page.
 
 I very rarely write things, and never about technology.
 
-I work as a software developer, but prefer skiing.
+I work as a software developer, but prefer ski touring.
